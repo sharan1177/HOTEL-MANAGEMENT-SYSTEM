@@ -1,1 +1,1 @@
-# HOTEL-MANAGEMENT-SYSTEM
+The hotel reservation system is developed for automating the activities of a hotel.It will take the operations of Hotel to an upper level by providing faster access to data and allowing addition, upgradation, modification, and deletion of data in a very systematic and reliable manner.
